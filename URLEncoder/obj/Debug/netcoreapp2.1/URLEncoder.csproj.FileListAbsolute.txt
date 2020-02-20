@@ -1,0 +1,11 @@
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\URLEncoder\obj\Debug\netcoreapp2.1\URLEncoder.csprojAssemblyReference.cache
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\URLEncoder\obj\Debug\netcoreapp2.1\URLEncoder.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\URLEncoder\obj\Debug\netcoreapp2.1\URLEncoder.AssemblyInfoInputs.cache
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\URLEncoder\obj\Debug\netcoreapp2.1\URLEncoder.AssemblyInfo.cs
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\URLEncoder\bin\Debug\netcoreapp2.1\URLEncoder.deps.json
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\URLEncoder\bin\Debug\netcoreapp2.1\URLEncoder.runtimeconfig.json
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\URLEncoder\bin\Debug\netcoreapp2.1\URLEncoder.runtimeconfig.dev.json
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\URLEncoder\bin\Debug\netcoreapp2.1\URLEncoder.dll
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\URLEncoder\bin\Debug\netcoreapp2.1\URLEncoder.pdb
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\URLEncoder\obj\Debug\netcoreapp2.1\URLEncoder.dll
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\URLEncoder\obj\Debug\netcoreapp2.1\URLEncoder.pdb
